@@ -1,0 +1,12 @@
+* {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+header {
+  text-align: center;
+}
+
+header h3 {
+  opacity: 0.6;
+}
