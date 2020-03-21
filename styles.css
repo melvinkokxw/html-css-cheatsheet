@@ -1,6 +1,7 @@
-* {
-  background-color: #000000;
-  color: #FFFFFF;
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1b262c;
+  color: #bbe1fa;
 }
 
 header {
@@ -8,5 +9,23 @@ header {
 }
 
 header h3 {
-  opacity: 0.6;
+  opacity: 0.37;
+}
+
+h2 {
+  text-align: center;
+}
+
+table {
+  margin: auto; /* sets the table to the middle of the page */
+  border: 2px solid #0f4c75;
+}
+
+thead {
+  background-color: #3282b8;
+}
+
+td {
+  border-top: 1px solid #0f4c75;
+  opacity: 0.60;
 }
